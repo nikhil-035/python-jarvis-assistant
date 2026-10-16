@@ -45,7 +45,7 @@ git clone https://github.com/your-username/python-jarvis-assistant.git
 4. Run:
 
 ```bash
-python jarvis.py
+python main.py
 ```
 
 ## 📚 Concepts Used
